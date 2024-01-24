@@ -1,7 +1,9 @@
 # SeinGOd
 
 # About me
+
 my nickname: seingod
+
 am developer with 13 years experience
 
 donation links:
