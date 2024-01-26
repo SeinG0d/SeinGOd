@@ -23,4 +23,7 @@ cosmos1je5fe038hf9lukr3efdfqeaa6e337dcx9xlar2
 osmosis cosmos:
 
 osmo1je5fe038hf9lukr3efdfqeaa6e337dcxdavd4c
+
+USDT ETH:
+ethereum:0xdac17f958d2ee523a2206206994597c13d831ec7/transfer?address=0xcba01e18608932d4e5be4cce47c0246a965b8440
 ```
