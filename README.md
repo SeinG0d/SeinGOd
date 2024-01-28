@@ -8,8 +8,6 @@ am developer with 13 years experience
 
 my works is so hard and am tired
 
-Because a guy owes me 200k dollars
-
 so you can donate me and am back to my work
 
 donation links:
